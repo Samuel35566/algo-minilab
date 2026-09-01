@@ -1,0 +1,6 @@
+problemA_inversions/main
+problemB_rooms/main
+problemC_knapsack/main
+*.o
+*.out
+*.exe
